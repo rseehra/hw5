@@ -1,0 +1,16 @@
+.button{
+    vertical-align: middle;
+}
+body{
+    background-color:red;
+}
+button{
+    border-radius: 25px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-weight: bold; 
+}
